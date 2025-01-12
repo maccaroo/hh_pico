@@ -1,0 +1,5 @@
+{
+  "SSID": "YourNetworkSSID",
+  "PASSWORD": "YourNetworkPassword",
+  "API_URL": "http://your-local-server/api"
+}
